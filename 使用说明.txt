@@ -1,14 +1,16 @@
 		 +-----------------------+
       		 |	操作说明	 
 +----------------+-----------------------+------------------------------+
-|demo-bash 								  
+|export PATH="jiaoben的绝对路径:$PATH" //临时使用
+|
+|1、demo-bash.sh 								  			
+|	jiaoben的绝对路径/demo-bash.sh xxx  //xxx为创建文件夹名
+|
+|2、demo-node.sh							
+|	node jiaoben的绝对路径/demo-node.sh xxx  //xxx为创建文件夹名		
 |									
-|export PATH="jiaoben的绝对路径:$PATH" //临时使用			
-|jiaoben的绝对路径/demo-bash.sh xxx  //xxx为创建文件夹名		
-|									
-|demo-node								
-|									
-|node jiaoben的绝对路径/demo-node.sh xxx  //xxx为创建文件夹名		
+|3、demo-node.js									
+|	node jiaoben的绝对路径/demo-node.js xxx  //xxx为创建文件夹名		
 |									
 |demo.sh xxx 可在当前目录下生成目录 xxx，demo.sh yyy 可生成目录 yyy	
 |									
