@@ -4,7 +4,9 @@
 |export PATH="jiaoben的绝对路径:$PATH" //临时使用
 |
 |1、demo-bash.sh 								  			
-|	jiaoben的绝对路径/demo-bash.sh xxx  //xxx为创建文件夹名
+|	jiaoben的绝对路径/demo-bash.sh xxx  //xxx为创建文件夹名。
+|	例如：脚本在jiaoben的文件夹里面，输入命令$export PATH="/h/git仓库/jiaoben:$PATH"
+|
 |
 |2、demo-node.sh							
 |	node jiaoben的绝对路径/demo-node.sh xxx  //xxx为创建文件夹名		
